@@ -13,6 +13,9 @@ http://www.socicon.com
 `bower install socicon`
 
 ## Usage
+
+Paste the stylesheet in your `<head>` and update the path.
+
 `<link rel="stylesheet" href="bower_components_or_node_modules/socicon/css/socicon.css">`
 
 Then, add the CSS class to any HTML tag.
