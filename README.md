@@ -2,6 +2,8 @@
 
 NPM / Bower packages for Socicon - The social icon font
 
+http://www.socicon.com
+
 ## Installation
 
 ### NPM
