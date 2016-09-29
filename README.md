@@ -1,6 +1,6 @@
 # Socicon
 
-The social icon font.
+NPM / Bower packages for Socicon - The social icon font
 
 ## Installation
 
