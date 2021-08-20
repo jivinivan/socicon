@@ -9,5 +9,9 @@
     "retina",
     "vector"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jivinivan/socicon.git"
+  },
   "license": "MIT"
 }
